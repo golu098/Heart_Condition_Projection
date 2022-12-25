@@ -1,1 +1,1 @@
-# Heart_Condition_Projection--Web-App
+# Heart_Condition_Projection
